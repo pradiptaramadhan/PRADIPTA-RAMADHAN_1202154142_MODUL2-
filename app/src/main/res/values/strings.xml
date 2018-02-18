@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PRADIPTA RAMADHAN_1202154142_MODUL2</string>
+    <string name="pilih_menu">Pilih Menu</string>
+    <string name="pesan_sekarang">pesan sekarang</string>
+    <string name="identitas_pemesan">Identitas Pemesan :</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="alamat">Alamat</string>
+    <string name="catatan">Catatan</string>
+    <string name="pilih_pesanan">PILIH PESANAN</string>
+    <string name="dine_in">Dine in</string>
+    <string name="take_away">Take Away</string>
+    <string name="nothing_selected">Nothing Selected!!!</string>
+
+    <string-array name="labels_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Lesehan 1</item>
+        <item>Lesehan 2</item>
+    </string-array>
+
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+</resources>
